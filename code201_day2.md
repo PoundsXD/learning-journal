@@ -1,0 +1,2 @@
+# Aug 8, 2017
+  The learning curve picked up today which I was glad to see, I like a good challenge. I learned how to use or statements, it's also becoming more apparent the things that I have a tendency to miss. I managed to create issues for myself by missing an equal sign and a few semi colons. .toUpperCase gave me a little trouble at first, I do believe I have it down now. Overall I must say I am enjoying the course so far.  
