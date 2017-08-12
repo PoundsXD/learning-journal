@@ -1,0 +1,2 @@
+#Aug 11, 2017
+Today the content seemed fairly easy though when I was trying to condense my code for the problems assignment I struggled. With some assistance though I was able to get it done by utilizing the arrays which helped me to know more on just how they can be used. With the first week now drawn to a close I must say that I'm enjoying this course. I think I finally have done the method in which to submit assignment links even though I really struggled with them.
