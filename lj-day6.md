@@ -1,0 +1,2 @@
+#Aug 14, 2017
+I must say the learning curve shifted drastically today, instead of being a mild game, it shifted straight into darksouls and dwarf fortress mode. I'm still managing to keep up, though I could definitely see a drop in the rate at which I would be able to complete assignments. I was also able to see the flaws in my extras assignment which helped me to further my understanding of how css meshes together magically. 
