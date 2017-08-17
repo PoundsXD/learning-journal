@@ -1,0 +1,2 @@
+#Aug 16, 2017
+Today I was able to figure out how to create a form in html, however I have yet to figure out how to get the data to be taken and used else where. I do beelieve this is largely in part do to the fact that my existing code is now obsolete with this project and needs to be almost completely reworked. Otherwise I would be adding many additional lines of code to add to the pre existing table.
