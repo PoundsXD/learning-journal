@@ -1,0 +1,2 @@
+# Aug 22, 2017
+Today I was able to get mostly caught up on mondays work. I sought out assistance on a few points which I am now committing to memory. I also decided I will still be doing python as my 401, which Karinne has already provided me with the links to practice material. I must say the reiterations of how far in we are help to remind me that even though it's been a blur in regards to how fast time is flying that I'm only 12 days in.
