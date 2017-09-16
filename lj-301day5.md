@@ -1,0 +1,2 @@
+# Sep 15, 2017
+I feel today was a great day to start getting things sorted out. I think I have started to grasp the way certain mechanisms of jQuery and other libraries work. I finally got a ton of my personal stress taken care off so it's not bogging my academic life down, unfortunately it came down to a loss on my behalf, guess I can't win them all. I'm really looking forward to working on the back end this coming week.
