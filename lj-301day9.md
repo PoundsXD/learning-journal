@@ -1,0 +1,2 @@
+# Sep 21, 2017
+I found that the lecture today was quite helpful in driving some of the concepts in, though in the last couple hours things were a haze. Though I feel I should be able to solidify some of the concepts better with some more practice. I have been trying to think of some good project ideas, but have yet to really find a good one. Hopefully I will be able to think of something at least somewhat good come monday.
